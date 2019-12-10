@@ -16,7 +16,7 @@
 			}"/>
 		</semantic:titleHeading>
 		<semantic:content>
-			<!-- For client side filtering add this to the items attribute: parameters: {operationMode: 'Client'}}" -->
+			<!-- For client side new comment filtering add this to the items attribute: parameters: {operationMode: 'Client'}}" -->
 			<List
 				id="list"
 				width="auto"
